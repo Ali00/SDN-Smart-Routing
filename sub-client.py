@@ -1,4 +1,5 @@
-__author__ = 'Greg Bernstein'
+#This based on the Code of Example-22 by Greg M. Bernstein
+#from https://www.grotto-networking.com/SDNfun.html
 """
     A subscriber for events from my OutLineAppZMQ POX application.
     IMPORTANT note for Windows users: Ctrl-C doesn't seem to shut this down on

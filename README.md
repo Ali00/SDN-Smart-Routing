@@ -1,2 +1,2 @@
 # SDN-Prediction-Model
-SDN proactive fault management
+Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/brite/

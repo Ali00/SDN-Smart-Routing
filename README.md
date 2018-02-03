@@ -6,4 +6,4 @@ Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/bri
 
 ### Failure event module:
 
-### Predection module:
+### Prediction module:

@@ -21,3 +21,5 @@ Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/bri
 ### Prediction module:
 
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework for your paper, please cite the following publication:`<br>
+`"Smart Routing: Towards Proactive Fault Handling of Software-Defined Networks"`

@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 '''
 Library functions for working w/graphs that are not specific to an algorithm.
 '''

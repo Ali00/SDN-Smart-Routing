@@ -10,8 +10,8 @@ import sys
 
 import networkx as nx
 
-from graph import interlacing_edges, pathlen, edges_on_path
-from graph import flip_and_negate_path, remove_edge_bidir, add_edge_bidir
+from disjoint_graph import interlacing_edges, pathlen, edges_on_path
+from disjoint_graph import flip_and_negate_path, remove_edge_bidir, add_edge_bidir
 
 # From http://docs.python.org/library/sys.html:
 # max    DBL_MAX    maximum representable finite float

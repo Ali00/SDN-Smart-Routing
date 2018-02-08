@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 '''Compute shortest pair between src and dst for a weighted graph.
 
 From Survivable Networks: Algorithms for Diverse Routing by Ramesh Bhandari 

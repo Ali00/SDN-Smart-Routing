@@ -4,6 +4,8 @@ From Survivable Networks: Algorithms for Diverse Routing by Ramesh Bhandari
 
 See also:
 http://en.wikipedia.org/wiki/Edge_disjoint_shortest_pair_algorithm
+and
+http://www.macfreek.nl/memory/Disjoint_Path_Finding
 '''
 import sys
 

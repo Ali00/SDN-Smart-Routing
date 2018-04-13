@@ -16,7 +16,7 @@ Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/bri
 
 
 ### Network Modelling:
-The network is modelled as an undirected graph G(v,E), hence, we utilised the NetworkX tool (version 1.11). 
+The network is modelled as an undirected graph G(V,E), hence, we utilised the NetworkX tool (version 1.11). 
 
 ### Failure event module:
 

@@ -8,7 +8,7 @@ Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/bri
   <div class="subcontainer">
     <figure>
       <p align="center">
-      <img  src="https://user-images.githubusercontent.com/12594727/35761455-81543a64-0880-11e8-9f16-ab14b537458e.png" width="200" height="200"/>
+      <img  src="https://user-images.githubusercontent.com/12594727/49808997-b7a6a780-fd55-11e8-8645-dc3cc944acd7.png" width="200" height="200"/>
       <figcaption><p align="center">Fig.1:Waxman Topology layout</figcaption>
     </figure>
   </div>

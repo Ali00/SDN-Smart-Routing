@@ -27,7 +27,7 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
   <div class="subcontainer">
     <figure>
       <p align="center">
-      <img  src="https://user-images.githubusercontent.com/12594727/50402914-4a9e0380-0792-11e9-9a9e-e59842e7245f.png" width="200" height="200"/>
+      <img  src="https://user-images.githubusercontent.com/12594727/50402914-4a9e0380-0792-11e9-9a9e-e59842e7245f.png" width="500" height="200"/>
       <figcaption><p align="center">Fig.1:Waxman Topology layout</figcaption>
     </figure>
   </div>

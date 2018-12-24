@@ -1,4 +1,4 @@
- ### SDN prediction framework:
+ ### Network prediction framework:
 The framework has been evaluated by the SDN emulator "Mininet": http://mininet.org/ with POX as a network operating system
 (controller): https://github.com/noxrepo/pox/ 
 <div class="container">
@@ -12,7 +12,7 @@ The framework has been evaluated by the SDN emulator "Mininet": http://mininet.o
 </div>
 
 ### Network topology: 
-Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/brite/ and parsed by the FNSS simulator: https://fnss.github.io/
+The network is modelled as an undirected graph G(V,E), hence, we utilised the NetworkX tool, https://networkx.github.io/, (version 1.11). Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/brite/ and parsed by the FNSS simulator: https://fnss.github.io/ to represent the data plane topology.
 
   <div class="container">
   <div class="subcontainer">
@@ -24,10 +24,7 @@ Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/bri
   </div>
 </div>
 
-### Network Modelling:
-The network is modelled as an undirected graph G(V,E), hence, we utilised the NetworkX tool, https://networkx.github.io/, (version 1.11). 
-
-### Prediction module:
+### Network prediction model:
 <div class="container">
   <div class="subcontainer">
     <figure>
@@ -37,14 +34,6 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
     </figure>
   </div>
 </div>
-
-
-
-
-
-
-
-
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication:`<br>
 `"Smart Routing: Towards Proactive Fault Handling of Software-Defined Networks"`

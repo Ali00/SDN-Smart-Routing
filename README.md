@@ -2,7 +2,7 @@
 The framework has been evaluated by the SDN emulator "Mininet": http://mininet.org/ with POX as a network operating system
 (controller): https://github.com/noxrepo/pox/ 
 ### Network topology: 
-Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/brite/ and parsed by the FNSS simulator: https://fnss.github.io/doc/core/
+Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/brite/ and parsed by the FNSS simulator: https://fnss.github.io/
 
   <div class="container">
   <div class="subcontainer">
@@ -17,7 +17,7 @@ Waxman.brite topology has been created via BRITE tool: https://www.cs.bu.edu/bri
 
 ### Network Modelling:
 The network is modelled as an undirected graph G(V,E), hence, we utilised the NetworkX tool (version 1.11). 
-We used FNSS, https://fnss.github.io/, to setup the generated topology.
+
 
 
 ### Failure event module:

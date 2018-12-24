@@ -615,8 +615,8 @@ class GraphPrediction(EventMixin):
              print "Number of Edges", E
              
              #if (N == 26) and (E == 42) and (cc > 0):   #For US Topo
-             if (N == 50) and (E == 88) and (cc > 0):   #For German Topo
-             #if (N == 70) and (E == 140) and (cc > 0):  #For Brite Topo
+             #if (N == 50) and (E == 88) and (cc > 0):   #For German Topo
+             if (N == 70) and (E == 140) and (cc > 0):  #For Brite Topo
                  self.updater(TT, link_x)
                  #Thrd1= threading.Thread(target=self.updater, args=[TT, link_x])
                  #Thrd1.start()
@@ -628,8 +628,8 @@ class GraphPrediction(EventMixin):
                     print 'Its an added event'
                    
              #if (N == 26) and (E < 42) and (cc > 0): #For US Topo
-             if (N == 50) and (E < 88) and (cc > 0): #For German Topo
-             #if (N == 70) and (E < 140) and (cc > 0):  #For Brite Topo
+             #if (N == 50) and (E < 88) and (cc > 0): #For German Topo
+             if (N == 70) and (E < 140) and (cc > 0):  #For Brite Topo
                  self.updater(TT, link_x)
                  #Thrd2= threading.Thread(target=self.updater, args=[TT, link_x])
                  #Thrd2.start()
@@ -643,8 +643,8 @@ class GraphPrediction(EventMixin):
                     print 'its a removed event'
 
              #if (N == 26) and (E == 42) and (cc==0): #For US Topo
-             if (N == 50) and (E == 88) and (cc==0): #For German Topo
-             #if (N == 70) and (E == 140) and (cc==0):  #For Brite Topo
+             #if (N == 50) and (E == 88) and (cc==0): #For German Topo
+             if (N == 70) and (E == 140) and (cc==0):  #For Brite Topo
                  cc = cc + 1    # Now cc=1 
                  print "Graph is ready now . . . "
                  print "Graph nodes are: ",self.G.nodes()

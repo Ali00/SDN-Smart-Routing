@@ -23,6 +23,15 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
 ### Failure event module:
 
 ### Prediction module:
+<div class="container">
+  <div class="subcontainer">
+    <figure>
+      <p align="center">
+      <img  src="https://github.com/Ali00/SDN-Prediction-Model/files/2707521/Prediction.pdf" width="200" height="200"/>
+      <figcaption><p align="center">Fig.1:Waxman Topology layout</figcaption>
+    </figure>
+  </div>
+</div>
 
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework for your paper, please cite the following publication:`<br>

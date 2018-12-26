@@ -1,5 +1,6 @@
 #Created By Ali Malik
 #Brite Topology 70 nodes 140 links
+#With failure events generator
 
 import zmq
 

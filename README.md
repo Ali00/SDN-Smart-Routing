@@ -35,6 +35,6 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
   </div>
 </div>
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication:``"Smart Routing: Towards Proactive Fault Handling of Software-Defined Networks"`,<br> https://www.sciencedirect.com/science/article/abs/pii/S1389128619300271#!
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "Smart Routing: Towards Proactive Fault Handling of Software-Defined Networks",<br> https://www.sciencedirect.com/science/article/abs/pii/S1389128619300271#!
 
 

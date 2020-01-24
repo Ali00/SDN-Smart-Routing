@@ -37,14 +37,14 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "Smart routing: Towards proactive fault handling of software-defined
 networks",`<br>
-`@article{malik2020smart,<br>
-  title={Smart routing: towards proactive fault handling of software-defined networks},<br>
-  author={Malik, Ali and Aziz, Benjamin and Adda, Mo and Ke, Chih-Heng},<br>
-  journal={Computer Networks},<br>
-  pages={107104},<br>
-  year={2020},<br>
-  publisher={Elsevier}
-}`
+`@article{malik2020smart,`<br>
+  `title={Smart routing: towards proactive fault handling of software-defined networks},`<br>
+  `author={Malik, Ali and Aziz, Benjamin and Adda, Mo and Ke, Chih-Heng},`<br>
+  `journal={Computer Networks},`<br>
+  `pages={107104},`<br>
+  `year={2020},`<br>
+  `publisher={Elsevier}`
+`}`
 <br> https://www.sciencedirect.com/science/article/abs/pii/S1389128619300271#!
 
 
